@@ -1,0 +1,5 @@
+.idea/*
+**/target/*
+data/*
+**/.Rhistory
+**/.DS_Store
